@@ -1,9 +1,3 @@
-# ================================================
-# Skeleton codes for HW5
-# Read the skeleton codes carefully and put all your
-# codes into function "reconstruct_from_binary_patterns"
-# ================================================
-
 import cv2
 import numpy as np
 from math import log, ceil, floor
